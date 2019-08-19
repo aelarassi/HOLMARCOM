@@ -8,7 +8,7 @@ HOLMARCOM GROUP Morocco - THINK OUT OF THE BOX ! (Séminaire des Managers du Gro
 
 ![](ScreenShot.jpg)
 
-## Tech
+## Dependencies
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
