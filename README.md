@@ -25,7 +25,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/) © [ABDELAZIZ EL ARASSI](https://www.linkedin.com/in/aelarassi/)
+© [ABDELAZIZ EL ARASSI](https://www.linkedin.com/in/aelarassi/)
 
 [react]: https://reactjs.org/
 [react-dom]: https://reactjs.org/
